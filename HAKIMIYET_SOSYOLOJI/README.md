@@ -54,6 +54,24 @@ Gayrimenkul krizinin toplumsal boyutu:
 - Bitmemiş binalarda yaşamak zorunda kalan aileler.
 - Gençlerin ev sahibi olma hayallerinin suya düşmesi sonucu evlilik oranlarının rekor seviyede düşüşü.
 
+## 👫 Mühendislikte Cinsiyet Dinamikleri: "Gökyüzünün Yarısı"
+
+Çin'de kadın ve erkek mühendisler ayrık değil, tamamen entegre ve beraber çalışmaktadır. Bu durumun kökenleri ve modern yansımaları şöyledir:
+
+### ⚙️ İş Gücünde Katılım
+- **STEM Dominasyonu:** Çin, dünyadaki en yüksek kadın STEM (Bilim, Teknoloji, Mühendislik) katılım oranlarından birine sahiptir. Bilim ve teknoloji alanında yaklaşık 40 milyon kadın çalışmakta olup, bu toplam iş gücünün %45.8'ine tekabül eder.
+- **Beraber Çalışma Kültürü:** Büyük teknoloji şirketlerinde (Tencent, Alibaba, Huawei) kadın çalışan oranı %50'ye yakındır. Mühendislik projelerinde kadın ve erkekler aynı ofislerde, aynı "996" temposunda omuz omuza çalışır.
+
+### 🏛️ Tarihsel ve Sosyal Arka Plan
+- **Mao Dönemi Mirası:** "Kadınlar gökyüzünün yarısını omuzlarında taşır" (Funü neng ding ban bian tian) öğretisi, kadınların ağır sanayi ve mühendislik alanlarına girmesini on yıllar önce normalleştirmiştir.
+- **Tek Çocuk Politikası Etkisi:** Bu politika döneminde aileler, tek çocukları kız olsa bile onun en iyi teknik eğitimi alması ve mühendislik gibi prestijli alanlara yönelmesi için tüm kaynaklarını seferber etmiştir.
+
+### ⚠️ Modern Bariyerler (Görünmez Engeller)
+Her ne kadar katılım yüksek olsa da, bazı yapısal zorluklar devam etmektedir:
+- **Liderlik Boşluğu:** Giriş ve orta seviyede katılım çok yüksekken, üst düzey yönetim (C-level) ve akademi üyeliği (CAS/CAE) seviyelerinde kadın oranı hala düşüktür (%5-6 civarı).
+- **Çifte Yük:** Kadın mühendisler hem 996 temposuna ayak uydurmak hem de geleneksel konfüçyüsçü aile beklentilerini (ev işleri ve çocuk bakımı) karşılamak gibi bir "çifte yük" altındadır.
+- **Guanxi Dışlanması:** İş sonrası yapılan erkek egemen sosyalleşme ağları (sigara/içki masaları), kadın mühendislerin bazı stratejik bilgi akışlarından mahrum kalmasına neden olabilir.
+
 ---
 > [!CAUTION]
 > Sosyal dokudaki bu değişimler, Çin'in "iç sirkülasyon" stratejisinin önündeki en büyük engellerdir.
