@@ -1,0 +1,10 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Local Assets
+_ASSETS/temp/
