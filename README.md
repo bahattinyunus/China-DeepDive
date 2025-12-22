@@ -14,12 +14,13 @@ Bu repo, Çin Halk Cumhuriyeti'nin ekonomik, sosyal, teknolojik ve kültürel ka
 
 Çin ekosistemi dört ana "Hakimiyet Alanı" altında kategorize edilmiştir. Her modül, kendi alanında derinlemesine dökümantasyon ve görsel analizler içerir.
 
-| Hakimiyet Alanı | Analiz Alanı | Stratejik Odak | Durum |
-| :--- | :--- | :--- | :--- |
-| **[SOSYOLOJİ](file:///HAKIMIYET_SOSYOLOJI/README.md)** | 996, Sosyal Kredi, Demografi | Neijuan & Tang Ping | `DERİNLEMESİNE` |
-| **[TEKNOLOJİ](file:///HAKIMIYET_TEKNOLOJI/README.md)** | Süper-Uygulamalar, EV, AI, Çip | Yeni Kaliteli Üretici Güçler | `AKTİF` |
-| **[EKONOMİ](file:///HAKIMIYET_EKONOMI/README.md)** | Şehir Katmanları, BRI, GBA, Emlak | Çift Sirkülasyon Stratejisi | `AKTİF` |
-| **[KÜLTÜR](file:///HAKIMIYET_KULTUR/README.md)** | Guanxi, Mianzi, Gaokao, Oyun | Yumuşak Güç & Modernite | `STABİL` |
+| Hakimiyet Alanı | Analiz Alanı | Modül | Odak Alanı | Derinlik Seviyesi |
+| :--- | :--- | :--- | :--- | :--- |
+| [Sosyoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_SOSYOLOJI/README.md) | Toplumsal Mühendislik & Demografi | **Elite** | Neijuan & Tang Ping | `DERİNLEMESİNE` |
+| [Teknoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_TEKNOLOJI/README.md) | Kuantum, Yapay Zeka & Uzay | **Transcendental** | Yeni Kaliteli Üretici Güçler | `AKTİF` |
+| [Ekonomi](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_EKONOMI/README.md) | Tedarik Zinciri Silahı & e-CNY | **Elite** | Çift Sirkülasyon Stratejisi | `AKTİF` |
+| [Kültür](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_KULTUR/README.md) | Yeni Literati & Dijital İdeoloji | **Transcendental** | Yumuşak Güç & Modernite | `STABİL` |
+| [Şablonlar](file:///c:/github%20repolar%C4%B1m/China-DeepDive/_TEMPLATES/) | İstihbarat ve Analiz Frameworkleri | **Operational** | Araştırma Metodolojileri | `GELİŞTİRİLİYOR` |
 
 ---
 
@@ -33,6 +34,24 @@ Geleneksel büyüme modellerinden (gayrimenkul ve düşük katma değerli üreti
 ### 2. Çift Sirkülasyon (Shuang Xunhuan)
 - **İç Sirkülasyon:** İç tüketimi ve yerli üretimi artırarak dışa bağımlılığı (özellikle Batı yaptırımlarına karşı) minimize etme.
 - **Dış Sirkülasyon:** Küresel ticaret ağlarını (Kuşak ve Yol gibi) kullanarak Çin'in jeopolitik etkisini konsolide etme.
+
+---
+
+## 🏛️ Üst Düzey Strateji: 2049 Ufku ve Kırmızı Hatlar
+
+Modern Çin'in tüm hamleleri, 2049 yılında "tam gelişmiş, müreffeh ve güçlü bir sosyalist modern devlet" olma hedefine (Yüzüncü Yıl Hedefi) odaklıdır.
+
+### 🌌 2049 Vizyonu (Grand Strategy)
+- **Teknolojik Egemenlik:** Kuantum, yapay zeka ve biyoteknolojide mutlak küresel liderlik.
+- **Jeopolitik Restorasyon:** Çin'in tarihsel "Orta Krallık" konumuna geri dönmesi ve çok kutuplu dünyada ana kutup olması.
+- **Orta Sınıf Refahı:** Kişi başı GSYİH'nın orta düzeyde gelişmiş ülkeler seviyesine çıkarılması.
+
+### 🛑 Dokunulamaz Kırmızı Hatlar (Red Lines)
+Pekin'in uluslararası ilişkilerde taviz vermeyeceği dört temel alan:
+1.  **Tayvan Meselesi:** "Tek Çin" prensibinin sarsılmazlığı.
+2.  **Siyasi Sistem:** Çin Komünist Partisi'nin (ÇKP) yönetim meşruiyeti ve liderliği.
+3.  **Demokrasi ve İnsan Hakları:** İç işlerine müdahale olarak görülen Batılı değer dayatmaları.
+4.  **Kalkınma Hakları:** Çin'in teknoloji ve ticaret alanındaki büyümesinin engellenmeye çalışılması (Yaptırım ve tarifeler).
 
 ---
 

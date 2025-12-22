@@ -89,6 +89,18 @@ Her ne kadar katılım yüksek olsa da, bazı yapısal zorluklar devam etmektedi
 - **Bariyer:** Bir "Kırsal Hukou" sahibi için Pekin veya Şanghay yerlisi (Kentsel Hukou) olmak, bir vatandaşlık değişiminden daha zordur.
 - **Modern Dönüşüm:** Hükümet, 2. ve 3. katman (Tier 2/3) şehirlerde Hukou kısıtlamalarını esneterek iç sirkülasyonu artırmaya çalışmaktadır.
 
+## 🧬 Sosyal Mühendislik 2.0: Davranış Modifikasyonu
+
+Çin'de toplumsal yönetim, artık sadece kısıtlamalarla değil, büyük veri ve yapay zeka destekli proaktif yönlendirmelerle (Sosyal Mühendislik) yürütülmektedir.
+
+### 🧠 Algoritmik Yönetişim
+- **Nudge (Dürtme) Teorisi:** Süper uygulamalar (WeChat/Alipay) üzerinden vatandaşların finansal ve sosyal davranışlarının "ideal vatandaş" modeline uygun şekilde dürtülmesi.
+- **Prediktif Sosyal Kontrol:** Suç veya toplumsal huzursuzluk oluşmadan önce, büyük veri analitiği ile potansiyel riskli bölgelerin ve kişilerin tespit edilmesi.
+
+### 📢 Propaganda 2.0 (Pozitif Enerji)
+- **Zheng Neng Liang (Pozitif Enerji):** Sadece sansür değil, devletin istediği anlatının (Çin rüyası, teknolojik zaferler) viral hale getirilmesi için kullanılan dijital orkestrasyon.
+- **KOL (Key Opinion Leaders) Entegrasyonu:** Sosyal medya fenomenlerinin, devletin stratejik mesajlarını "yaşam tarzı" içerikleri içinde eriterek genç nesillere aktarması.
+
 ---
 > [!CAUTION]
 > Sosyal dokudaki bu değişimler, Çin'in "iç sirkülasyon" stratejisinin önündeki en büyük engellerdir.

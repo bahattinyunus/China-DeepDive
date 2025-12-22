@@ -61,6 +61,23 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 - **Altın Rezervleri:** Çin'in dolar varlıklarını azaltarak fiziksel altın rezervlerini sürekli artırması (Stratejik ayrışma sinyali).
 - **CIPS:** Rusya ve diğer ülkelerle olan ticaretin, Batı yaptırımlarından korunması için Çin'in kendi ödeme sistemi.
 
+## ⛓️ Stratejik Bağımlılık: Tedarik Zinciri ve Kaynak Diplomasisi
+
+Çin ekonomisi sadece üretim hacmiyle değil, küresel tedarik zincirindeki "boğum noktalarını" (bottlenecks) kontrol ederek stratejik bir üstünlük kurmaktadır.
+
+### 🛡️ Tedarik Zinciri Silahı (Weaponized Supply Chains)
+- **Kritik Mineraller:** Lityum, Kobalt, Grafit ve Nadir Toprak Elementleri'nin işlenmesindeki mutlak dominasyon (%80+ pay).
+- **İhracat Kontrolleri:** Batı'nın çip yaptırımlarına karşı, Galyum ve Germanyum gibi kritik ham maddelerin ihracatının kısıtlanarak misilleme yapılması (Stratejik koz).
+
+### 🌍 Kaynak Haritalama ve Küresel Güney
+- **Afro-Çin Sinerjisi:** Afrika'daki maden yataklarının (Kongo-Kobalt, Gine-Boksit) uzun vadeli imtiyazlarla güvence altına alınması.
+- **Lityum Üçgeni:** Latin Amerika (Arjantin, Bolivya, Şili) üzerindeki maden yatırımları ile EV batarya geleceğinin kontrol edilmesi.
+- **Liman-Lojistik Ağı:** Sri Lanka, Pakistan (Gwadar) ve Cibuti üzerinden kurulan "İnci Dizisi" (String of Pearls) ile enerji rotalarının güvenliği.
+
+### 📉 Orta Gelir Tuzağından Çıkış: Yeni Kaliteli Üretici Güçler
+- **Strateji:** Emek-yoğun tekstil ve montajdan; güneş panelleri, rüzgar türbinleri ve insansız sistemler gibi yüksek teknoloji ihracatına geçiş.
+- **Hedef:** Batı'nın sanayi temelini rekabetçi fiyatlar ve ölçek ekonomisi ile aşındırarak küresel "yeşil dönüşüm"ün ana sağlayıcısı olmak.
+
 ---
 > [!TIP]
 > Çin ekonomisi artık "Miktardan Kaliteye" (Quantity to Quality) geçiş yapmaya çalışmaktadır.
