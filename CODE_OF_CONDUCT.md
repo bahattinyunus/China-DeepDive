@@ -1,18 +1,18 @@
-# Contributor Covenant Code of Conduct
+# Katılımcı Ahdi Davranış Kuralları
 
-## Our Pledge
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
+## Taahhüdümüz
+Açık ve misafirperver bir ortam teşvik etmek amacıyla, biz katılımcılar ve sürdürücüler olarak, projemize ve topluluğumuza katılımın herkes için tacizden uzak bir deneyim olmasını sağlamayı taahhüt ediyoruz.
 
-## Our Standards
-Examples of behavior that contributes to creating a positive environment include:
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+## Standartlarımız
+Olumlu bir ortama katkıda bulunan davranış örnekleri şunlardır:
+* Misafirperver ve kapsayıcı bir dil kullanmak
+* Farklı görüşlere ve deneyimlere saygılı olmak
+* Yapıcı eleştirileri nezaketle kabul etmek
+* Topluluk için en iyi olana odaklanmak
+* Diğer topluluk üyelerine karşı empati göstermek
 
-## Our Responsibilities
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+## Sorumluluklarımız
+Proje yöneticileri, kabul edilebilir davranış standartlarını netleştirmekten sorumludur ve kabul edilemez davranış durumlarına yanıt olarak uygun ve adil düzeltici önlemler almaları beklenir.
 
-## Scope
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
+## Kapsam
+Bu Davranış Kuralları, hem proje alanlarında hem de bir bireyin projeyi veya topluluğunu temsil ettiği kamusal alanlarda geçerlidir.

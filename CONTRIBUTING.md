@@ -1,21 +1,21 @@
-# Contributing to China-DeepDive
+# China-DeepDive'a Katkıda Bulunmak
 
-First off, thank you for considering contributing to China-DeepDive! It's people like you that make this a great resource for deciphering modern China.
+Öncelikle, China-DeepDive'a katkıda bulunmayı düşündüğünüz için teşekkür ederiz! Modern Çin'i çözümlemek için sizin gibi insanların desteği bu projeyi harika bir kaynak haline getiriyor.
 
-## How Can I Contribute?
+## Nasıl Katkıda Bulunabilirim?
 
-### Reporting Bugs or Inaccuracies
-- Use the GitHub Issues to report any factual inaccuracies or bugs in formatting.
-- Provide clear context and sources if possible.
+### Hataları veya Yanlışlıkları Bildirme
+- Herhangi bir olgusal yanlışlık veya format hatasını bildirmek için GitHub Issues (Sorunlar) kısmını kullanın.
+- Mümkünse net bir bağlam ve kaynak belirtin.
 
-### Suggesting Enhancements
-- If you have an idea for a new module or content piece, open an issue first to discuss it.
+### Geliştirme Önerileri
+- Yeni bir modül veya içerik fikriniz varsa, tartışmak için önce bir konu açın.
 
-### Pull Requests
-- Ensure your PR is concise and follows the established "Dominion" structure.
-- Maintain the neutral, analytical tone of the repository.
+### Pull Talepleri (PR)
+- PR'ınızın öz olduğundan ve yerleşik "Hakimiyet" yapısını takip ettiğinden emin olun.
+- Deponun nötr ve analitik tonunu koruyun.
 
-## Style Guide
-- Use standard Markdown.
-- Mermaid diagrams are encouraged for complex systems.
-- Always cite sources for statistical data.
+## Stil Rehberi
+- Standart Markdown kullanın.
+- Karmaşık sistemler için Mermaid diyagramları teşvik edilir.
+- İstatistiksel veriler için daima kaynak belirtin.
