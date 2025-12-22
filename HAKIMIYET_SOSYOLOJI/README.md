@@ -72,6 +72,23 @@ Her ne kadar katılım yüksek olsa da, bazı yapısal zorluklar devam etmektedi
 - **Çifte Yük:** Kadın mühendisler hem 996 temposuna ayak uydurmak hem de geleneksel konfüçyüsçü aile beklentilerini (ev işleri ve çocuk bakımı) karşılamak gibi bir "çifte yük" altındadır.
 - **Guanxi Dışlanması:** İş sonrası yapılan erkek egemen sosyalleşme ağları (sigara/içki masaları), kadın mühendislerin bazı stratejik bilgi akışlarından mahrum kalmasına neden olabilir.
 
+## 🏰 Hukou Sistemi: Görünmez Duvarlar
+
+Çin'in toplumsal yapısını anlamak için, Mao döneminden kalan ve hala etkin olan "Hukou" (Hane Kayıt Sistemi) anahtardır.
+
+### 📜 Hukou Nedir?
+- **Tanım:** Vatandaşın doğum yerine göre "Kentsel" veya "Kırsal" olarak sınıflandırılmasıdır.
+- **Fonksiyon:** Eğitim, sağlık ve sosyal güvenlik haklarının sadece kayıtlı olduğunuz bölgede geçerli olmasıdır.
+
+### 🚜 Kırsaldan Kente Göç: Mingong Krizi
+- **Mingong:** Köylerinden kentlere çalışmaya gelen "göçmen işçiler."
+- **Paradoks:** Bu işçiler Shenzhen veya Şanghay gibi devleri inşa etse de, "Kırsal Hukou"ları nedeniyle bu şehirlerde çocuklarını okula gönderemez veya devlet hastanelerinden tam yararlanamazlar.
+- **Toplumsal Etki:** Geride bırakılan çocuklar (Left-behind children) ve aile parçalanmaları.
+
+### 🏙️ Sosyal Hareketlilik ve Reform
+- **Bariyer:** Bir "Kırsal Hukou" sahibi için Pekin veya Şanghay yerlisi (Kentsel Hukou) olmak, bir vatandaşlık değişiminden daha zordur.
+- **Modern Dönüşüm:** Hükümet, 2. ve 3. katman (Tier 2/3) şehirlerde Hukou kısıtlamalarını esneterek iç sirkülasyonu artırmaya çalışmaktadır.
+
 ---
 > [!CAUTION]
 > Sosyal dokudaki bu değişimler, Çin'in "iç sirkülasyon" stratejisinin önündeki en büyük engellerdir.

@@ -43,6 +43,24 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 - **Çin + 1:** Çinli şirketlerin, yaptırımları aşmak için Vietnam ve Meksika'da fabrikalar kurması.
 - **Kritik Mineraller:** Lityum, Kobalt ve Nadir Toprak Elementleri üzerindeki işleme dominasyonu.
 
+## 🏦 Mali Mimari: Dijital Yuan ve Borç Dinamikleri
+
+Çin ekonomisi, sadece üretim değil, para birimi ve finansal altyapı üzerinden yeni bir küresel düzen kurmaya çalışmaktadır:
+
+### 1. Dijital Yuan (e-CNY): Programlanabilir Para
+- **Vizyon:** SWIFT sistemine bağımlılığı azaltmak ve sınır ötesi ödemelerde Yuan kullanımını yaygınlaştırmak.
+- **Karakteristik:** Programlanabilir olması (örneğin son kullanma tarihli kuponlar) ve devletin para akışını gerçek zamanlı izleyebilmesi.
+- **Jeopolitik:** "Petroyuan" ekosistemi üzerinden enerji ithalatının dolar dışı paralarla yapılması hamlesi.
+
+### 2. LGFV (Yerel Yönetim Finansman Araçları): Görünmez Borç
+- **Problem:** Eyaletlerin altyapı projelerini finanse etmek için bütçe dışı kurdukları şirketler.
+- **Risk:** Trilyonlarca dolarlık "gölge borç." Gayrimenkul krizinin bu borç sarmalını tetikleme riski, merkezi hükümetin en büyük makro uğraşıdır.
+- **Mekanizma:** Toprak satış gelirlerinin azalması sonucu, yerel yönetimlerin bu borçları çevirmekte zorlandığı "Gayrimenkul-Maliye" sarmalı.
+
+### 🛡️ Finansal Kale Stratejisi
+- **Altın Rezervleri:** Çin'in dolar varlıklarını azaltarak fiziksel altın rezervlerini sürekli artırması (Stratejik ayrışma sinyali).
+- **CIPS:** Rusya ve diğer ülkelerle olan ticaretin, Batı yaptırımlarından korunması için Çin'in kendi ödeme sistemi.
+
 ---
 > [!TIP]
 > Çin ekonomisi artık "Miktardan Kaliteye" (Quantity to Quality) geçiş yapmaya çalışmaktadır.

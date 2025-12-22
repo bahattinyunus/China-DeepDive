@@ -47,6 +47,25 @@ ABD'nin Çin'e yönelik teknoloji kısıtlamalarına karşı Çin'in "Kendi Kend
 Baidu (Ernie), Alibaba (Qwen) ve Tencent (Hunyuan) arasındaki yapay zeka yarışı. 
 - **Yerelleşme:** Çin dil yapısı ve kültürel sansür mekanizmalarına tam uyumlu yapay zeka modelleri.
 
+## 🛰️ Stratejik Atılımlar: G60 Yıldız Geçidi ve RISC-V
+
+Çin, Batı dökümantasyonunda sıkça gözden kaçan iki devasa teknolojik "pivot" (eksen değişimi) gerçekleştirmektedir:
+
+### 1. G60 Yıldız Geçidi (Starlink Yanıtı)
+- **Hedef:** SpaceX'in Starlink projesine karşı, 12.000'den fazla uydu içeren alçak yörünge takımyıldızı oluşturmak.
+- **Neden Önemli?** Küresel internet erişiminde Amerikan dominasyonunu kırmak ve askeri/stratejik haberleşme bağımsızlığı sağlamak.
+- **Üretim Hızı:** Şanghay'daki G60 fabrikası, yılda 300'den fazla uydu üretecek kapasiteye ulaştırılmıştır.
+
+### 2. RISC-V Pivotu (İşlemci Bağımsızlığı)
+- **Problem:** x86 (Intel/AMD) ve ARM (İngiliz/Japon) kısıtlamaları.
+- **Çözüm:** Açık kaynaklı **RISC-V** mimarisini ulusal standart haline getirmek.
+- **Vizyon:** Çin, dünyadaki açık kaynaklı işlemci tasarımının merkezi haline gelerek, çiplerde "yasaklanamaz" bir altyapı kurmaktadır. 2024 itibariyle dünya genelindeki RISC-V sevkiyatının %50'si Çin menşelidir.
+
+### 🌊 Düşük İrtifa Ekonomisi (Low-Altitude Economy)
+- **Kavram:** 1000 metrenin altındaki hava sahasının ekonomik kullanımı.
+- **Uygulama:** Otonom hava taksileri (EHang) ve endüstriyel kargo dronları ile "üç boyutlu şehir lojistiği."
+- **Piyasa Tahmini:** 2026 yılına kadar bu sektörün Çin ekonomisine 1 trilyon Yuan katkı sağlaması beklenmektedir.
+
 ---
 > [!IMPORTANT]
 > Çin için teknoloji artık sadece bir büyüme aracı değil, ulusal bir güvenlik meselesidir.

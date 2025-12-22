@@ -77,15 +77,15 @@ graph TD
 
 ### 🧬 Toplum: Büyük İçsel Sarmal (Neijuan)
 Çinli gençlerin "aşırı rekabet ama düşük getiri" sarmalına girmesi. Neden herkes aynı anda koşuyor ama kimse ilerleyemiyor?
-- **Anahtar Kelimeler:** Tang Ping, Bai Lan, İnvolsfyon.
+- **Anahtar Kelimeler:** Tang Ping, Bai Lan, **Hukou Sistemi (Görünmez Duvarlar)**.
 
-### ⚡ Teknoloji: EV Yıldırım Harbi
+### ⚡ Teknoloji: EV Yıldırım Harbi & Siber Bağımsızlık
 Çin'in içten yanmalı motorları atlayıp doğrudan Batarya ve Yazılım odaklı araçlarda dünyayı nasıl domine ettiği.
-- **Anahtar Kelimeler:** BYD, CATL, LFP Bataryalar.
+- **Anahtar Kelimeler:** BYD, CATL, **G60 Yıldız Geçidi**, **RISC-V Pivotu**.
 
-### 🏛️ Ekonomi: Emlak Ekseni Kayması
+### 🏛️ Ekonomi: Emlak Ekseni Kayması & Dijital Yuan
 Gayrimenkul odaklı büyümeden "Yeni Kaliteli Üretici Güçler"e geçişin sancıları.
-- **Anahtar Kelimeler:** Evergrande, 1-2-3 Katmanlı Şehirler, Makro-istikrar.
+- **Anahtar Kelimeler:** Evergrande, **LGFV Borç Sarmalı**, **Dijital Yuan (e-CNY)**.
 
 ---
 
