@@ -57,6 +57,29 @@ Dilsel nüanslar, etik kodlar ve bin yıllık geleneklerin modernite ile birleş
 - **İçerik Denetimi:** WeChat ve Weibo gibi platformlarda "uyumlu toplum" (Hexie shehui) prensibi gereği yapılan gerçek zamanlı anahtar kelime sansürü.
 - **Algoritmik İdeoloji:** Çin'in yapay zekalı algoritmalarının, toplumu daha "pozitif" ve "ulusal değerlere uygun" içeriklere yönlendirme kapasitesi.
 
+## ⛩️ Ruhsal Mimari: İnanç Sistemi ve Devlet
+
+Çin resmi olarak ateist bir devlet olsa da, halkın manevi dünyası rasyonellik ile bin yıllık geleneklerin hibrit bir karışımıdır.
+
+### 1. Üç Öğreti (San Jiao): Senkretik Mantık
+Çin inanç dünyası, birbirini dışlamayan üç ana temele dayanır:
+- **Konfüçyüsçülük:** Din değil, sosyal düzen, hiyerarşi ve etik felsefesi (Yönetimin moral zemini).
+- **Taoizm:** Doğa ile uyum, denge (Yin-Yang) ve bireysel iç huzur.
+- **Budizm:** Acının kaynağı, reenkarnasyon ve merhamet (Daha metafiziksel katman).
+
+### 2. Halk İnançları ve Ata Kültü
+Kurumsal dinlerden daha yaygın olan, her evde ve işletmede görülen pratiklerdir:
+- **Atalara Tapınma:** Ölen aile üyelerinin ruhlarına sunulan adaklar (Tütsü, sahte kağıt paralar).
+- **Yerel Tanrılar:** İş başarısı için "Guan Yu" veya bereket için "Zao Jun" (Mutfak Tanrısı) gibi figürlere gösterilen saygı.
+
+### 3. Dinlerin "Çinlileştirilmesi" (Sinicization)
+Devletin 2024/2025 projeksiyonundaki en keskin politikasıdır:
+- **Kontrol:** İslam, Hristiyanlık vb. dinlerin mimarisinden (kubbe/minare kaldırma) dinsel metinlerine kadar her şeyin "Sosyalist değerlerle" uyumlu hale getirilmesi hamlesi.
+- **Vatansever Kiliseler/Camiler:** Devletin onayladığı resmi dini dernekler dışında yapılan faaliyetlerin "yasa dışı" kabul edilmesi.
+
+### 🧘 Seküler Maneviyat
+Modern beyaz yakalı Çinliler arasında, dini pratiklerden ziyade; meditasyon, "tapınak ekonomisi" (stres atmak için tapınak ziyaretleri) ve astroloji/fal gibi mistik alanlara yönelim artmaktadır.
+
 ---
 > [!NOTE]
 > Kültürel analizler, yerel psikolojiyi anlamak için kritik öneme sahiptir.

@@ -87,6 +87,10 @@ graph TD
 Gayrimenkul odaklı büyümeden "Yeni Kaliteli Üretici Güçler"e geçişin sancıları.
 - **Anahtar Kelimeler:** Evergrande, **LGFV Borç Sarmalı**, **Dijital Yuan (e-CNY)**.
 
+### ⛩️ Kültür & İnanç: Pratik Spiritüalizm
+Çin'de din, bir "kilise üyeliği" değil, günlük hayatın içine sızmış ritüeller bütünüdür.
+- **Anahtar Kelimeler:** **Üç Öğreti (Budizm-Taoizm-Konfüçyüs)**, **Ata Kültü**, **Sinicization (Çinlileştirme)**.
+
 ---
 
 ## 🚀 Katkıda Bulunun
