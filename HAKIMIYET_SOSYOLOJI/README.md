@@ -161,6 +161,23 @@ Pekin'in "İkinci Yüzyıl Hedefi" (2049) için kırsal kesimin sadece birer gı
 ### 🏛️ Kentsel-Kırsal Entegrasyon Mekanizması
 - **Refahın Yayılımı:** Eğitim ve sağlık hizmetlerinin dijital altyapı üzerinden köylere ulaştırılması, böylece kentlere olan göç baskısının (ve dolayısıyla Neijuan'ın) hafifletilmesi.
 
+## 🏙️ Dijital İkiz Şehirler (Digital Twin Cities): Akıllı Kentsel Yönetişim
+
+Çin, 2025'e kadar 500'den fazla şehirde dijital ikiz teknolojilerini uygulamayı hedeflemektedir. Bu, fiziksel şehirlerin sanal kopyalarını oluşturarak gerçek zamanlı simülasyon ve optimizasyon yapma kapasitesidir.
+
+### 🧠 City Brain 3.0 (Mart 2025)
+- **AI Entegrasyonu:** DeepSeek-R1 modeli ile desteklenen "Şehir Beyni 3.0" sistemi, şehir devriyesi ve trafik yönetimini optimize etmektedir.
+- **Beijing Uygulaması:** Başkent, kendi "Şehir Beyni"ni dijital ikiz şehir girişimlerini desteklemek için geliştirmiştir.
+
+### 🎯 Dijital İkiz Uygulamaları
+- **Trafik Optimizasyonu:** Gerçek zamanlı trafik akışı simülasyonu ile sıkışıklıkların önlenmesi.
+- **Afet Yönetimi:** Sel, deprem ve yangın senaryolarının simüle edilmesi ve acil müdahale planlarının optimize edilmesi.
+- **Kentsel Planlama:** Yeni binaların ve altyapının şehir üzerindeki etkilerinin önceden test edilmesi.
+- **Enerji Verimliliği:** Akıllı şebekelerin (smart grids) optimize edilmesi ve karbon ayak izinin azaltılması.
+
+### 🌐 Küresel Liderlik
+Çin, akıllı şehir teknolojisinde küresel lider konumundadır ve dijital ikiz şehir uygulamalarını aktif olarak yaygınlaştırmaktadır. Bu, sadece teknolojik bir başarı değil, aynı zamanda kentsel yaşam kalitesini artırma ve sürdürülebilir kalkınmayı sağlama stratejisinin bir parçasıdır.
+
 ---
 > [!CAUTION]
 > Sosyal dokudaki bu değişimler, Çin'in "iç sirkülasyon" stratejisinin önündeki en büyük engellerdir.
