@@ -132,6 +132,17 @@ Yaşlanan nüfus sadece bir yük değil, 2025'te 30 Trilyon Yuan'lık bir pazar 
 - **Biyo-üretim:** Mikrobiyal fabrikalar aracılığıyla nadir ham maddelerin (ginsenosid gibi) sürdürülebilir üretimi.
 - **Tarım 2.0:** Karbondioksitten şeker üreten sentetik biyoloji yöntemleri ile geleneksel tarıma olan bağımlılığın azaltılması.
 
+## 🌾 Kırsal Canlanma (Xiangcun Zhenxing): Sosyal Restorasyon
+
+Pekin'in "İkinci Yüzyıl Hedefi" (2049) için kırsal kesimin sadece birer gıda üretim merkezi değil, modern yaşamın birer parçası haline getirilmesi stratejisidir.
+
+### 🚜 Tarımsal Modernizasyon ve Dijital Köyler
+- **Akıllı Tarım:** Otonom traktörler, drone destekli ilaçlama ve veri analitiği ile verimliliğin artırılması.
+- **E-Ticaret Entegrasyonu:** Köylülerin ürünlerini doğrudan şehirli tüketiciye (Taobao Villages) ulaştırmasıyla kırsal gelirin "Ortak Refah" hedeflerine senkronize edilmesi.
+
+### 🏛️ Kentsel-Kırsal Entegrasyon Mekanizması
+- **Refahın Yayılımı:** Eğitim ve sağlık hizmetlerinin dijital altyapı üzerinden köylere ulaştırılması, böylece kentlere olan göç baskısının (ve dolayısıyla Neijuan'ın) hafifletilmesi.
+
 ---
 > [!CAUTION]
 > Sosyal dokudaki bu değişimler, Çin'in "iç sirkülasyon" stratejisinin önündeki en büyük engellerdir.

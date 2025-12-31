@@ -102,6 +102,21 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 - **Sünger Şehirler (Sponge Cities):** Yağmur suyunu emen, saklayan ve temizleyen geçirimli yüzeyler ve dikey bahçeler hiyerarşisi. 2030 hedefi olan %80 verimliliğe yönelik 60 pilot şehirde devasa altyapı yatırımı.
 - **Karbon Yönetimi:** 2060 karbon nötr hedefi doğrultusunda "Yeşil Hidrojen" ve endüstriyel "Karbon Yakalama" (CCUS) tesislerinin yaygınlaşması.
 
+## ✈️ Havacılık Bağımsızlığı: C919 ve Büyük Gövde Stratejisi
+
+Çin, küresel sivil havacılıktaki Boeing-Airbus düopolünü kırmak için "Büyük Gövde" (Wide-body) projesine odaklanmıştır.
+
+### 📐 COMAC C919: Ulusal Prestijin Kanatları
+- **Üretim Kapasitesi:** 2025 itibariyle yıllık 50 uçak kapasitesine ulaşma ve yerli hava yolları ağında tam entegrasyon.
+- **Küresel Açılım:** Güneydoğu Asya pazarı üzerinden başlayan ve Avrupa sertifikasyonu ile taçlandırılması hedeflenen küresel satış stratejisi.
+
+## 🔋 Katı Hal Batarya (SSB) Devrimi: Enerji Egemenliği
+
+Çin, mevcut lityum-iyon dominasyonunu bir üst seviyeye taşıyarak "Katı Hal" teknolojisinde liderliği hedeflemektedir.
+
+- **Pilot Üretim 2025:** CATL ve WeLion gibi devlerin pilot üretim hatlarını devreye alması ve humanoid robotik/elektrikli havacılık için yüksek yoğunluklu hücrelerin üretimi.
+- **Milli Standartlar:** Çin, SSB teknolojisinde kendi ulusal standartlarını belirleyerek küresel pazarın regülasyon gücünü elinde tutmaya çalışmaktadır.
+
 ---
 > [!TIP]
 > Çin ekonomisi artık "Miktardan Kaliteye" (Quantity to Quality) geçiş yapmaya çalışmaktadır.

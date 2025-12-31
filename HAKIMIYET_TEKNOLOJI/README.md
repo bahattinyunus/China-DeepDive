@@ -81,6 +81,21 @@ Baidu (Ernie), Alibaba (Qwen) ve Tencent (Hunyuan) arasındaki yapay zeka yarı�
 ### 2. Arktik ve Kutup Egemenliği
 - **Kutup İpek Yolu:** 2025 itibariyle Arktik deniz tabanına ulaşma ve buradaki kaynaklar üzerinde hak iddia etme kapasitesine sahip ikinci ulus olma hedefi.
 
+## 🤖 Otonom Gelecek: İnsansı Robotik (Humanoids)
+
+Çin, 2025 yılını insansı robotların "seri üretim" yılı olarak ilan etmiştir. Bu sadece bir mühendislik başarısı değil, azalan iş gücüne karşı geliştirilen yapısal bir yanıttır.
+
+### 🛠️ Milli İnovasyon Sistemi
+- **Seri Üretim Hedefi:** UBTECH ve rakiplerinin fabrikalarda, sınır hatlarında ve veri merkezlerinde aktif görev alacak insansı robotları sahaya sürmesi.
+- **Kritik Bileşen Bağımsızlığı:** Sensörler, aktuarlar ve yapay zeka beyinleri (LLM+Robotics) alanında %100 yerlilik hedefi.
+
+## ⚛️ Yapay Güneş: HL-3 ve Füzyon Devrimi
+
+Temiz ve sonsuz enerji arayışında Çin'in HL-3 Tokamak reaktörü, " burning plasma" fazına giriş yapmıştır.
+
+- **Sıcaklık Rekorları:** 160 milyon santigrat derece elektron sıcaklığına ulaşarak güneşin çekirdeğinden 10 kat daha sıcak bir ortamın (domestik teknolojiyle) stabilitesini sağlama başarısı.
+- **15. Beş Yıllık Plan:** Füzyonun, 2026-2030 döneminde ana büyüme motorlarından biri olarak kodlanması.
+
 ## 🌌 Gelecek Ufukları: Kuantum, Biyoteknoloji ve Uzay 2.0
 
 Çin'in 2030 ve 2049 hedeflerinin merkezinde, konvansiyonel teknolojilerin ötesindeki "Force Multipliers" (Güç Çarpanları) yer almaktadır.

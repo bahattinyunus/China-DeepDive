@@ -16,10 +16,10 @@ Bu repo, Çin Halk Cumhuriyeti'nin ekonomik, sosyal, teknolojik ve kültürel ka
 
 | Hakimiyet Alanı | Analiz Alanı | Modül | Odak Alanı | Derinlik Seviyesi |
 | :--- | :--- | :--- | :--- | :--- |
-| [Sosyoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_SOSYOLOJI/README.md) | Toplumsal Mühendislik, Demografi & Spiritüalizm | **Deep Analysis** | Gümüş Ekonomi, Hukou Reformu & Neijuan | `MASTERCLASS` |
-| [Teknoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_TEKNOLOJI/README.md) | NQPFs, Kuantum, Otonom Sistemler & Uç Sınırlar | **Transcendental** | Yeni Kaliteli Üretici Güçler & Derin Okyanus | `ULTRA-DEEP` |
-| [Ekonomi](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_EKONOMI/README.md) | Tedarik Zinciri Silahı, e-CNY & Kentsel Direnç | **Structural** | Ortak Refah & Çift Sirkülasyon | `ACTIVE / 2025` |
-| [Kültür](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_KULTUR/README.md) | Yeni Literati, Dijital İdeoloji & Modernite | **Transcendental** | Guo Chao, Yumuşak Güç & Sinisizasyon | `STABİL` |
+| [Sosyoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_SOSYOLOJI/README.md) | Sosyal Sosyal Restorasyon & Demografi | **Deep Analysis** | Gümüş Ekonomi & Kırsal Canlanma | `MASTERCLASS` |
+| [Teknoloji](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_TEKNOLOJI/README.md) | Füzyon, İnsansı Robotlar & Uç Sınırlar | **Transcendental** | NQPFs & Yapay Güneş | `ULTRA-DEEP` |
+| [Ekonomi](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_EKONOMI/README.md) | Havacılık, Katı Hal Batarya & Ekoloji | **Structural** | C919 & Ortak Refah | `ACTIVE / 2025` |
+| [Kültür](file:///c:/github%20repolar%C4%B1m/China-DeepDive/HAKIMIYET_KULTUR/README.md) | Yeni Literati, Dijital İdeoloji & Modernite | **Transcendental** | Guo Chao, Yumuşak Güç & Modernite | `STABİL` |
 | [Şablonlar](file:///c:/github%20repolar%C4%B1m/China-DeepDive/_TEMPLATES/) | Analitik Frameworkler & Araştırma Metodolojisi | **Operational** | Stratejik Intel & Red Line Protokolleri | `GELİŞTİRİLİYOR` |
 
 ---
@@ -95,17 +95,17 @@ graph TD
 
 ## 🔍 Öne Çıkan Analizler: Derin Analiz
 
-### 🧬 Toplum: Gümüş Ekonomi ve Sentetik Gelecek
-Yaşlanan nüfusun yarattığı 30 Trilyon Yuan'lık "Gümüş Ekonomi" ve sentetik biyolojinin toplumsal gıda güvenliğindeki rolü.
-- **Anahtar Kelimeler:** **Gümüş Ekonomi**, **Sentetik Biyoloji**, VR Bakım, Gaokao 2025.
+### 🧬 Toplum: Gümüş Ekonomi ve Kırsal Restorasyon
+30 Trilyon Yuan'lık "Gümüş Ekonomi" potansiyeli ve köylerin dijitalleşerek (Taobao Villages) refaha entegre edilmesi süreci.
+- **Anahtar Kelimeler:** **Gümüş Ekonomi**, **Kırsal Canlanma**, VR Bakım, Dijital Köyler.
 
-### ⚡ Teknoloji: Uç Sınırlar ve Okyanus Egemenliği
-1.5 Trilyon Yuan'lık "Düşük İrtifa Ekonomisi" (Drone/eVTOL) ve Arktik/Derin Deniz madenciliği (Meng Xiang).
-- **Anahtar Kelimeler:** **Düşük İrtifa Ekonomisi**, **Derin Deniz Madenciliği**, Arktik Misyonu, NQPFs.
+### ⚡ Teknoloji: Füzyon, Robotlar ve Okyanus Sınırları
+Seri üretim insansı robotlar, HL-3 Yapay Güneş projesi ve derin deniz madenciliği (Meng Xiang gemisi).
+- **Anahtar Kelimeler:** **İnsansı Robotlar**, **HL-3 Füzyon**, Okyanus Madenciliği, NQPFs.
 
-### 🏛️ Ekonomi: Kentsel Direnç ve Sünger Şehirler
-İklim değişikliğine karşı "Sünger Şehir" altyapısı ve 2060 Karbon Nötr yolunda CCUS/Yeşil Hidrojen yatırımları.
-- **Anahtar Kelimeler:** **Sünger Şehirler**, **Yeşil Hidrojen**, Karbon Yakalama, Ortak Refah.
+### 🏛️ Ekonomi: Havacılık Hamlesi ve Katı Hal Bataryalar
+Boeing-Airbus düopolüne C919 yanıtı ve enerji depolamada "Katı Hal" (SSB) devrimi ile mutlak egemenlik.
+- **Anahtar Kelimeler:** **C919 Havacılık**, **Katı Hal Batarya**, Sünger Şehirler, Ortak Refah.
 
 ### ⛩️ Kültür & İnanç: Pratik Spiritüalizm
 Çin'de din, bir "kilise üyeliği" değil, günlük hayatın içine sızmış ritüeller bütünüdür.
