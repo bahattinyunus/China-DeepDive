@@ -129,7 +129,29 @@ Boeing-Airbus düopolüne C919 yanıtı ve enerji depolamada "Katı Hal" (SSB) d
 
 ---
 
-## 🚀 Katkıda Bulunun
+## � Grafen ve İleri Malzemeler (Graphene & Advanced Materials)
+- **Stratejik Önemi:** Grafen, süper iletkenlik, mekanik dayanıklılık ve termal özellikleriyle Çin'in nano‑malzeme liderliğini pekiştiriyor. 2025‑2030 hedefi, grafen tabanlı elektronik ve enerji depolama sistemlerini ölçeklendirmek.
+- **Uygulama Alanları:** Yüksek hızlı veri iletimi, hafif kompozit yapılar, enerji depolama (süperkapasitörler) ve tıbbi sensörler.
+
+## 🧬 CRISPR ve Gen Düzenleme (CRISPR & Gene Editing)
+- **Stratejik Hedef:** 2025 itibarıyla CRISPR‑Cas9 tabanlı tarım ve sağlık çözümleriyle biyoteknoloji bağımsızlığı kazanmak.
+- **Kritik Projeler:** Genetik hastalıkların tedavisi, dayanıklı tarım bitkileri ve biyoyakıt üretimi için gen düzenleme platformları.
+
+## 🔋 Hidrojen Ekonomisi (Hydrogen Economy)
+- **Vizyon:** 2030’a kadar hidrojen üretiminde %30 yenilenebilir enerji entegrasyonu ve yakıt hücresi taşıtlarıyla ulaşımda sıfır emisyon hedefi.
+- **Altyapı:** Yeşil hidrojen elektroliz tesisleri, dağıtım ağları ve hidrojen yakıt istasyonları (H₂‑Station) geliştirme planları.
+
+## 🌱 Dikey Tarım ve Gıda Güvenliği (Vertical Farming & Food Security)
+- **Neden:** Kentsel nüfus artışı ve arazi kısıtlamaları nedeniyle yüksek verimli, su tasarruflu tarım sistemleri.
+- **Teknolojiler:** LED spektrum kontrolü, IoT‑tabanlı ortam izleme ve yapay zeka destekli hasat optimizasyonu.
+
+## 🏭 Akıllı İmalat 5.0 (Smart Manufacturing 5.0)
+- **Amaç:** Endüstri 4.0 üzerine yapay zeka, dijital ikiz ve nesnelerin interneti (IoT) entegrasyonu ile tam otomasyon.
+- **Kilit Bileşenler:** Dijital ikiz üretim hatları, otonom robotik kol sistemleri ve gerçek zamanlı veri analitiği.
+
+---
+
+## �🚀 Katkıda Bulunun
 
 Bu merkez, topluluk desteğiyle büyür. Çin'in karmaşıklığını çözmemize yardım etmek için `CONTRIBUTING.md` dosyasını inceleyin.
 
