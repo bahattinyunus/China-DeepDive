@@ -1,22 +1,29 @@
 # 🤖 HAKİMİYET ALANI: TEKNOLOJİ (Jishu)
 
-Çin'in "Paralel İnternet" evreni ve teknolojik üstünlük yarışı.
+Çin'in "Paralel İnternet" evreni, sadece bir sansür mekanizması değil, otonom bir dijital medeniyet tasarımıdır.
 
-## 📱 Dijital Ekosistem: Süper Uygulamalar
+## 🚀 Yeni Kaliteli Üretici Güçler: Tekno-Teleolojik Vizyon
 
-Çin interneti, Batı'daki "bir uygulama bir iş" mantığından farklı olarak "tek uygulama her şey" mantığıyla çalışır.
+Pekin'in 2025 ve sonrası için ana doktrini olan NQPFs, teknolojiyi sadece bir verimlilik aracı olarak değil, ulusal egemenliğin ve sosyalist modernitenin "ontolojik temeli" olarak konumlandırır.
 
-| Uygulama | Batı Muadili | Kilit Fonksiyonlar |
+- **Felsefe:** Geleneksel üretimdeki "insan-yoğun" modelden, yapay zeka ve kuantum tarafından orkestre edilen "bilgi-yoğun" modele geçiş.
+- **Transendental Hedef:** Batı'nın teknolojik ambargolarını (containment) sadece aşmak değil, kendi standartlarını (RISC-V, 6G, Kuantum Protokolleri) dünyaya ihraç ederek küresel teknoloji hiyerarşisini yeniden tanımlamak.
+
+## 📱 Süper Uygulamalar: Dijital Yaşam İşletim Sistemleri
+
+Çin interneti, uygulamaların birer araç değil, bireyin toplumsal varoluşunu yöneten birer "işletim sistemi" olduğu bir ekosistemdir.
+
+| Ekosistem | Stratejik Rol | Sosyal Etki |
 | --- | --- | --- |
-| **WeChat (WeiXin)** | WhatsApp++ | Ödeme, Devlet İşleri, Mini Programlar |
-| **Douyin** | TikTok | Sosyal E-ticaret, Canlı Yayın Satışı |
-| **Bilibili** | YouTube | ACG (Anime, Çizgi Roman, Oyun) Kültürü |
-| **Xiaohongshu** | Insta-Pinterest | Yaşam Tarzı, Şeffaf İncelemeler |
+| **WeChat (Pekin'in Svizz Çakısı)** | Her Şeyin Uygulaması (Super App) | Ödeme, kimlik, devlet hizmetleri ve sosyal gözetimin tek bir veri boğumunda birleşmesi. |
+| **Douyin (Algoritmik Yumuşak Güç)** | Sosyal E-ticaret & Dikkat Ekonomisi | Canlı yayın satışları ile perakendenin tamamen dijitalleşmesi ve dikkatin devlet anlatısına senkronize edilmesi. |
+| **Xiaohongshu (Yeni Yaşam Tasarımı)** | Kolektif Karar Alma & Yaşam Tarzı | Genç neslin tüketim alışkanlıklarını ve "sosyal kanıt" (social proof) mekanizmalarını yöneten ana merkez. |
 
 ## 🚗 Yeni Nesil Mobilite: EV Egemenliği
 
 - **BYD & NIO:** Batı markalarına karşı teknolojik ve fiyat avantajı.
-- **Batarya Teknolojisi:** CATL dominasyonu.
+- **Batarya Teknolojisi:** CATL dominasyonu ve %30+ pazar payı.
+- **Yeşil Enerji Zaferi:** Çin, 2030 yılı için hedeflediği 1.2 Terawatt rüzgar ve güneş kapasitesine 2024 sonunda, yani 5 yıl erken ulaşmıştır.
 
 ## 🧠 Yapay Zeka ve Gözetim Teknolojileri
 
@@ -27,9 +34,9 @@
 
 ABD'nin Çin'e yönelik teknoloji kısıtlamalarına karşı Çin'in "Kendi Kendine Yetme" hamlesi.
 
-### 1. Yarı İletken Bağımsızlığı
-- **RISC-V:** Batı lisanslı (ARM/x86) mimarilere bağımlılığı azaltmak için açık kaynaklı işlemci mimarisine devasa yatırım.
-- **Olgun Çipler:** 7nm ve altı yasaklansa da, Çin "olgun" çiplerde (28nm+) dünya üretimini domine ederek global tedarik zincirinde kaldıraç oluşturuyor.
+### 1. Yarı İletken Bağımsızlığı: Silisyum Kalesi
+- **RISC-V Stratejisi:** ABD/İngiliz lisanslı (Intel/ARM) mimarilere olan bağımlılığı, açık kaynaklı RISC-V mimarisini "ulusal işlemci standardı" haline getirerek bypass etme hamlesi. Bu, çipler üzerinde "egemenlik" kurmanın teknik adıdır.
+- **Olgun Çiplerde Dominasyon:** 7nm altındaki "stratejik" kısıtlamalara rağmen Çin, 28nm+ (Legacy Nodes) çiplerde dünya üretim kapasitesini tekeline alarak küresel otomotiv ve IoT sektörlerini kendisine bağımlı kılmaktadır (Chokehold strategy).
 
 ### 2. Yerli İşletim Sistemleri ve Yazılım
 - Windows yerine **Kylin OS** ve yerli veri tabanları (Alibaba/OceanBase) ile kritik altyapıların millileştirilmesi.
@@ -61,10 +68,18 @@ Baidu (Ernie), Alibaba (Qwen) ve Tencent (Hunyuan) arasındaki yapay zeka yarı�
 - **Çözüm:** Açık kaynaklı **RISC-V** mimarisini ulusal standart haline getirmek.
 - **Vizyon:** Çin, dünyadaki açık kaynaklı işlemci tasarımının merkezi haline gelerek, çiplerde "yasaklanamaz" bir altyapı kurmaktadır. 2024 itibariyle dünya genelindeki RISC-V sevkiyatının %50'si Çin menşelidir.
 
-### 🌊 Düşük İrtifa Ekonomisi (Low-Altitude Economy)
-- **Kavram:** 1000 metrenin altındaki hava sahasının ekonomik kullanımı.
-- **Uygulama:** Otonom hava taksileri (EHang) ve endüstriyel kargo dronları ile "üç boyutlu şehir lojistiği."
-- **Piyasa Tahmini:** 2026 yılına kadar bu sektörün Çin ekonomisine 1 trilyon Yuan katkı sağlaması beklenmektedir.
+- **Piyasa Tahmini:** 2025 yılına kadar bu sektörün (Drone/eVTOL) Çin ekonomisine 1.5 trilyon Yuan katkı sağlaması beklenmektedir.
+
+## ⚓ Uç Sınırlar (Frontiers): Derin Deniz ve Arktik
+
+Çin, sadece gökyüzünde değil, okyanusun en derin noktalarında da teknolojik egemenlik kurmaktadır.
+
+### 1. Derin Deniz Madenciliği (Deep Sea Mining)
+- **Kaituo 2:** Pasifik Okyanusu'nda 6000+ metre derinlikte test edilen insansız maden aracı.
+- **Meng Xiang:** 11.000 metre marine sondaj kapasiteli dünyanın ilk bağımsız ocean-drilling gemisi. Hedef: Yanıcı buz ve nadir toprak elementleri.
+
+### 2. Arktik ve Kutup Egemenliği
+- **Kutup İpek Yolu:** 2025 itibariyle Arktik deniz tabanına ulaşma ve buradaki kaynaklar üzerinde hak iddia etme kapasitesine sahip ikinci ulus olma hedefi.
 
 ## 🌌 Gelecek Ufukları: Kuantum, Biyoteknoloji ve Uzay 2.0
 
@@ -81,9 +96,9 @@ Baidu (Ernie), Alibaba (Qwen) ve Tencent (Hunyuan) arasındaki yapay zeka yarı�
 - **Amacı:** Gıda güvenliğini sağlamak ve "insan sermayesinin" biyolojik kalitesini artırmak.
 
 ### 🚀 Uzay Yarışı 2.0: Ay ve Ötesi
-- **2030 Ay İnişi:** Long March 10 roketi ile Ay'a insanlı iniş ve ardından kalıcı bir üs (ILRS) kurma hedefi.
-- **Asteroid Madenciliği:** Tianwen-2 görevi ile asteroidlerden örnek getirme ve uzay kaynakları üzerinde hak iddia etme hazırlıkları.
-- **Thousand Sails (Bin Yelken):** SpaceX Starlink'e rakip olarak 14.000 uyduluk devasa bir internet ağı kurma süreci (Long March 12 ile hızlanan sevkiyat).
+- **2030 Ay İnişi:** Long March 10 roketi ile Ay'a insanlı iniş hazırlıkları.
+- **ILRS (Uluslararası Ay Araştırma İstasyonu):** Ay'ın güney kutbunda Rusya ve diğer partnerlerle kalıcı üs kurma projesi.
+- **Thousand Sails (Bin Yelken):** SpaceX Starlink'e rakip olarak tasarlanan ve 2025 itibariyle fırlatma sıklığı artan 14.000 uyduluk dev internet takımyıldızı.
 
 ---
 > [!IMPORTANT]

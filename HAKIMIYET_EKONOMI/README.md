@@ -6,16 +6,20 @@ Makroekonomik stratejiler, endüstriyel kümeler ve küresel ticaret dinamikleri
 
 Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 
-- **Katman 1 (Tier 1):** Pekin, Şanghay, Guangzhou, Shenzhen (Küresel Merkezler).
-- **Yeni Katman 1:** Chengdu, Hangzhou, Chongqing (Yükselen Yıldızlar).
-- **Katman 2 & 3:** Üretim üsleri ve iç pazarın kalbi.
+- **Katman 1 (Tier 1):** Pekin (Siyaset), Şanghay (Finans), Guangzhou ve Shenzhen (Teknoloji) - Küresel sistem merkezi.
+- **Yeni Katman 1:** Chengdu, Hangzhou, Chongqing - İç sirülasyonun yeni Ar-Ge ve lojistik kalbi.
+- **Katman 2 & 3:** Dongguan, Suzhou, Hefei - Dünyanın üretim bandı ve endüstriyel "backbone."
 
 ## 🏗️ Stratejik Projeler
 
 - **Kuşak ve Yol Girişimi (BRI):** Modern İpek Yolu.
-- **Greater Bay Area (GBA):** Hong Kong - Makao - Guangdong entegrasyonu.
+## ⚖️ Ortak Refah (Common Prosperity): Yeni Sosyal Kontrat
 
-## 📉 Ekonomik Zorluklar
+"Ortak Refah", sadece bir gelir adaleti projesi değil, Çin Komünist Partisi'nin teknoloji ve sermaye devleri üzerindeki mutlak otoritesini sağlamlaştırma ve geniş halk kitlelerini sistem içinde tutma stratejisidir.
+
+- **Filozofik Temel:** Aşırı zenginliğin yarattığı toplumsal huzursuzluğun, sistemin meşruiyetini tehdit etmesini önleme hamlesi.
+- **Zhejiang Pilotu:** Gelir dağılımının bir "zeytin" (geniş orta sınıf) formuna getirilmesi için vergi teşvikleri, bağış zorunlulukları ve kamu hizmetlerine erişimde radikal eşitlik denemesi.
+- **Kurumsal Etki:** Tencent ve Alibaba gibi devlerin "sosyal sorumluluk" adı altında milyarlarca doları devletin öncelikli gördüğü kırsal kalkınma projelerine aktarması.
 
 - **Gayrimenkul Balonu:** Evergrande ve kasaba ekonomileri.
 - **Genç İşsizliği:** Hızla artan rekabetin yarattığı yük.
@@ -38,10 +42,10 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 | **Odak** | Donanım, Elektronik, Fintech | Otomotiv, Çelik, Kimya, E-ticaret |
 | **Karakter** | "Dünyanın Fabrikası" & Girişimcilik | Geleneksel sanayi devleri & Finans merkezi |
 
-## 🏭 Küresel Tedarik Zinciri Stratejisi
-
-- **Çin + 1:** Çinli şirketlerin, yaptırımları aşmak için Vietnam ve Meksika'da fabrikalar kurması.
-- **Kritik Mineraller:** Lityum, Kobalt ve Nadir Toprak Elementleri üzerindeki işleme dominasyonu.
+### 🛡️ Tedarik Zinciri Silahı (Weaponized Supply Chains)
+Çin, küresel ekonomiyi sadece bir pazar olarak değil, stratejik bir "bağımlılık labirenti" olarak tasarlamaktadır.
+- **Kritik Mineraller:** Lityum, Kobalt, Galyum ve Nadir Toprak Elementleri'nin dünya genelindeki işleme kapasitesinin %80'inden fazlasını kontrol ederek, Batı'nın yeşil dönüşüm ve savunma sanayi kapasitesini rehin alma kabiliyeti.
+- **Galyum-Germanyum Kozu:** Batı'nın çip kısıtlamalarına yanıt olarak bu minerallerin ihracatının kısıtlanması, "ham madde diplomasisi"nin nasıl bir jeopolitik kaldıraca dönüştüğünün en somut örneğidir.
 
 ## 🏦 Mali Mimari: Dijital Yuan ve Borç Dinamikleri
 
@@ -49,13 +53,26 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 
 ### 1. Dijital Yuan (e-CNY): Programlanabilir Para
 - **Vizyon:** SWIFT sistemine bağımlılığı azaltmak ve sınır ötesi ödemelerde Yuan kullanımını yaygınlaştırmak.
-- **Karakteristik:** Programlanabilir olması (örneğin son kullanma tarihli kuponlar) ve devletin para akışını gerçek zamanlı izleyebilmesi.
+- **2025 Durumu:** Memur maaşlarının ve kamu ihalelerinin e-CNY ile ödenmesi bazı eyaletlerde zorunlu hale gelmiştir.
 - **Jeopolitik:** "Petroyuan" ekosistemi üzerinden enerji ithalatının dolar dışı paralarla yapılması hamlesi.
 
 ### 2. LGFV (Yerel Yönetim Finansman Araçları): Görünmez Borç
 - **Problem:** Eyaletlerin altyapı projelerini finanse etmek için bütçe dışı kurdukları şirketler.
-- **Risk:** Trilyonlarca dolarlık "gölge borç." Gayrimenkul krizinin bu borç sarmalını tetikleme riski, merkezi hükümetin en büyük makro uğraşıdır.
-- **Mekanizma:** Toprak satış gelirlerinin azalması sonucu, yerel yönetimlerin bu borçları çevirmekte zorlandığı "Gayrimenkul-Maliye" sarmalı.
+- **Risk:** Trilyonlarca dolarlık "gölge borç." 2025'te merkezi hükümetin bu borçları eyaletler arası transferlerle "eritmeye" çalışması ana gündemdir.
+
+## 🏎️ Stratejik Teknoloji: Yarı İletken ve Huawei Faktörü
+
+2025 itibariyle Çin'in çip stratejisi "mutlak bağımsızlık" evresindedir:
+
+- **Huawei Ascend 910B/C:** ABD'nin Nvidia kısıtlamalarına yanıt olarak geliştirilen ve SMIC'in 7nm üretimiyle desteklenen yerli AI işlemcileri.
+- **SMIC Verimliliği:** SMIC, 7nm kapasitesini aylık 45.000 wafer seviyesine çıkararak Huawei'nin talebini karşılamaya odaklanmıştır.
+- **%70 Kendi Kendine Yetme:** "Made in China 2025" hedefi olan %70 yerlilik oranına ulaşma gayreti ve yerli ekipman kullanım zorunluluğu (%50+).
+
+## 🕳️ Orta Gelir Tuzağı (Middle Income Trap)
+
+Çin, 2025 sonunda "yüksek gelirli ülke" statüsüne geçme eşiğindedir. Ancak:
+- **Yapısal Engel:** Verimlilik artışının, yaşlanan nüfus ve azalan sermaye getirisi tarafından baskılanması.
+- **Çıkış Yolu:** "Yeni Kaliteli Üretici Güçler" ile yüksek katma değerli üretime geçerek kişi başı GSYİH'yı artırmak.
 
 ### 🛡️ Finansal Kale Stratejisi
 - **Altın Rezervleri:** Çin'in dolar varlıklarını azaltarak fiziksel altın rezervlerini sürekli artırması (Stratejik ayrışma sinyali).
@@ -77,6 +94,13 @@ Yatırım ve strateji planlaması için kullanılan hiyerarşik yapı.
 ### 📉 Orta Gelir Tuzağından Çıkış: Yeni Kaliteli Üretici Güçler
 - **Strateji:** Emek-yoğun tekstil ve montajdan; güneş panelleri, rüzgar türbinleri ve insansız sistemler gibi yüksek teknoloji ihracatına geçiş.
 - **Hedef:** Batı'nın sanayi temelini rekabetçi fiyatlar ve ölçek ekonomisi ile aşındırarak küresel "yeşil dönüşüm"ün ana sağlayıcısı olmak.
+
+## 🌿 Ekoloji ve Kentsel Direnç (Sponge Cities)
+
+Çin, iklim değişikliği ve hızlı şehirleşmenin yarattığı sel riskine karşı kentlerini "sünger"e dönüştürmektedir.
+
+- **Sünger Şehirler (Sponge Cities):** Yağmur suyunu emen, saklayan ve temizleyen geçirimli yüzeyler ve dikey bahçeler hiyerarşisi. 2030 hedefi olan %80 verimliliğe yönelik 60 pilot şehirde devasa altyapı yatırımı.
+- **Karbon Yönetimi:** 2060 karbon nötr hedefi doğrultusunda "Yeşil Hidrojen" ve endüstriyel "Karbon Yakalama" (CCUS) tesislerinin yaygınlaşması.
 
 ---
 > [!TIP]
