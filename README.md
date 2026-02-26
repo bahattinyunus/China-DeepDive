@@ -1,5 +1,8 @@
-﻿# 🐉 Proje: Çin Derin Analiz (Zhongguo Shenru)
+﻿<div align="center">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" alt="China DeepDive Digital Command Center Banner" width="100%">
+</div>
 
+# 🐉 Proje: Çin Derin Analiz (Zhongguo Shenru)
 [![Durum](https://img.shields.io/badge/Durum-Derin_Analiz-red.svg?style=for-the-badge)]()
 [![Odak](https://img.shields.io/badge/Odak-Sosyo_Ekonomik_Yapi-gold.svg?style=for-the-badge)]()
 [![Tür](https://img.shields.io/badge/Tür-Dijital_Strateji_Merkezi-black.svg?style=for-the-badge)]()
@@ -56,9 +59,6 @@ Pekin'in küresel dengelerde "savaş nedeni" (casus belli) olarak gördüğü ve
 
 ---
 
-## 🧭 Navigasyon Metodolojisi
-
-Bu repo, sadece bir bilgi deposu değil, Çin'in çok katmanlı gerçekliğini "dikey entegrasyon" prensibiyle anlamaya yönelik bir bilişsel haritadır. Her okuma seviyesi, farklı bir analitik derinliği temsil eder ve kullanıcının ihtiyaçlarına göre modeler olarak tasarlanmıştır:
 
 ## 🧭 Navigasyon Metodolojisi: Çok Katmanlı Analitik Çerçeve
 
