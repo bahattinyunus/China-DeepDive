@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" alt="China DeepDive Digital Command Center Banner" width="100%">
+  <img src="./_ASSETS/visionary_banner.png" alt="China DeepDive Visionary Digital Command Center Banner" width="100%">
 </div>
 
 # 🐉 Proje: Çin Derin Analiz (Zhongguo Shenru)
